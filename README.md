@@ -7,4 +7,4 @@ python == 3.9.2 <br/>
 pygame == 2.0.1 <br/>
 
 # Demo Clips
-![](https://youtu.be/4BZzMhz3eas)
+[![Watch the video](https://img.youtube.com/vi/4BZzMhz3eas/0.jpg)](https://youtu.be/4BZzMhz3eas)
